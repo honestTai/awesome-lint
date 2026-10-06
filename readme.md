@@ -1,3 +1,15 @@
+<div align="center">
+
+**English** · [简体中文](README.zh-CN.md)
+
+[HRouter](https://hrouter.net/home) · [All public projects](https://github.com/honestTai) · [Star & Fork trends](#project-activity)
+
+</div>
+
+[![Repository summary](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/badges/awesome-lint.svg)](#project-activity)
+
+> **Upstream fork:** This is honestTai’s fork of [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint). The original documentation and attribution are preserved below.
+
 <h1 align="center">
 	<br>
 	<img width="500" src="media/logo.svg" alt="awesome-lint">
@@ -190,3 +202,17 @@ Takes the same options as `awesomeLint()`, plus:
 Type: `Function`
 
 Custom reporter function to format the output.
+
+---
+
+<a id="project-activity"></a>
+
+## Project activity
+
+Star / Fork totals and retained-event history, scheduled to refresh daily.
+
+[![Star and Fork history for awesome-lint](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/awesome-lint.svg)](https://github.com/honestTai/honestTai/blob/main/data/README.md)
+
+[Observed daily totals](https://raw.githubusercontent.com/honestTai/honestTai/main/assets/metrics/awesome-lint-daily.svg) · [Methodology](https://github.com/honestTai/honestTai/blob/main/data/METHODOLOGY.md) · [All public projects](https://github.com/honestTai)
+
+<sub>Historical curves reconstruct currently retained stars and visible forks, not historical net totals. Separate daily observations start on 2026-10-06; no fabricated backfill.</sub>
